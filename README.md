@@ -50,8 +50,8 @@ To run the SwingPuzzleGame on your local machine, follow these steps:
 
 ### Initial Game Screen
 
-![Initial Game Screen](https://github.com/changcui28/SwingPuzzleGame/blob/main/assets/InitialGameScreen.png?raw=true)
+![Initial Game Screen](https://github.com/YeT1AN/SwingPuzzleGame/blob/main/assets/InitialGameScreen.png?raw=true)
 
 ### Victory Screen
 
-![Victory Screen](https://github.com/changcui28/SwingPuzzleGame/blob/main/assets/VictoryScreen.png?raw=true)
+![Victory Screen](https://github.com/YeT1AN/SwingPuzzleGame/blob/main/assets/VictoryScreen.png?raw=true)
